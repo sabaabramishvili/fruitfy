@@ -1,0 +1,28 @@
+.inline {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+    border: 2px solid #000;
+    background-color: #FFB800;
+    box-shadow: 2px 4px 0px 0px #000;
+    color: #000;
+    text-align: right;
+    font-family: Inconsolata;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    padding: 8px;
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+.full {
+    width: 100%;
+}
+
+
+.default {
+    padding: 21px 28px;
+}

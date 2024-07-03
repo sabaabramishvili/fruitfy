@@ -1,0 +1,72 @@
+.container {
+    width: 100%;
+    max-width: 704px;
+    height: 75px;
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 2px 4px 0px 0px #000;
+    position: relative;
+    border: 4px solid black;
+
+}
+
+.container input {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    height: 47px;
+    border: none;
+    outline: none;
+    font-family: Inconsolata;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding-left: 16px;
+}
+
+.image {
+    position: absolute;
+    right: 16px;
+    cursor: pointer;
+}
+
+.long {
+    width: 100%;
+    margin: auto;
+    position: relative;
+
+}
+
+.long input {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.medium {
+    width: 100%;
+    position: relative;
+    max-width: 524px;;
+}
+
+.medium input {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.small {
+    width: 160px;
+}
+
+.fat {
+    max-width: 704px;
+    height: 175px;
+}
+
+.sale {
+    width: 139px;
+}

@@ -1,0 +1,35 @@
+.wrapper {
+    background-color: #418DF9;
+    padding: 20px 32px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    width: 100%;
+    max-width: 1100px;
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.input {
+    width: 100%;
+    max-width: 704px;
+}

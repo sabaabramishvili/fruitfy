@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    align-items: center;
+    background-color: #000;
+    transform: rotate(2deg);
+    border-radius: 4px;
+    width: 145px;
+    padding: 0px px;
+    justify-content: center;
+}
+
+.text {
+    border-radius: 4px;
+    background: #EA2845;
+    transform: rotate(-2deg);
+    color: #FFF;
+    font-family: Inconsolata;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    padding: 8px 16px;
+}
