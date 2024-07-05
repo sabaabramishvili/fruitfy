@@ -17,7 +17,6 @@ type Fruit = {
     fruit: Props
 }
 const Product = (props: Fruit) => {
-    console.log(props.fruit)
     return (
         <div className={styles.container}>
             <div className={styles.product}>
